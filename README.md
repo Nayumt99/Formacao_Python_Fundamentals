@@ -71,14 +71,16 @@ Para começar, você precisa instalar o Python e configurar seu ambiente de dese
 
 ## 💻 Exercícios e Projetos
 
-Durante o curso, você encontrará exercícios práticos para reforçar seu aprendizado. Estes exercícios estão localizados no diretório `exercicios/` e são projetados para desafiar suas habilidades e aplicar o que você aprendeu.
+Durante o curso, você encontrará exercícios práticos para reforçar seu aprendizado. Estes exercícios e desafios são projetados para desafiar suas habilidades e aplicar o que você aprendeu.
 
-## 📄 Documentação e Recursos Adicionais
+## 📄 Documentação, Recursos Adicionais e Ambientes de Desenvolvimento
 
 Para mais informações sobre Python e suas bibliotecas, consulte a documentação oficial:
 
 - [Documentação Python](https://docs.python.org/3/)
 - [Tutorial de Python](https://docs.python.org/3/tutorial/index.html)
+- [VsCode](https://code.visualstudio.com/)
+- [Pycharm](https://www.jetbrains.com/pt-br/pycharm/)
 
 ## 🤝 Contribuições
 

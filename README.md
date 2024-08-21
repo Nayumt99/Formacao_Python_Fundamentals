@@ -2,7 +2,8 @@
 
 Bem-vindo à Formação Python Fundamentals da Digital Innovation One (DIO)! Este repositório contém todos os materiais e exercícios necessários para você se aprofundar nos fundamentos da programação em Python.
 
-![Screenshot_1](https://github.com/user-attachments/assets/ffc92977-dd3f-4031-982f-59f28255e59a)
+![Screenshot_1-removebg-preview](https://github.com/user-attachments/assets/2f4dd9a8-f041-43e5-a359-a52ff8d70346)
+
 
 ## 📚 O que é Python?
 

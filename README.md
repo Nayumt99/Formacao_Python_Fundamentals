@@ -73,7 +73,7 @@ Para começar, você precisa instalar o Python e configurar seu ambiente de dese
 
 Durante o curso, você encontrará exercícios práticos para reforçar seu aprendizado. Estes exercícios e desafios são projetados para desafiar suas habilidades e aplicar o que você aprendeu.
 
-## 📄 Documentação, Recursos Adicionais e Ambientes de Desenvolvimento
+## 📄 Documentação, Recursos Adicionais, IDE's
 
 Para mais informações sobre Python e suas bibliotecas, consulte a documentação oficial:
 
@@ -84,6 +84,6 @@ Para mais informações sobre Python e suas bibliotecas, consulte a documentaç�
 
 ## 🤝 Contribuições
 
-Se você encontrar algum erro ou tiver sugestões para melhorar o curso, sinta-se à vontade para abrir uma [issue](https://github.com/seu-repositorio/issues) ou contribuir com um [pull request](https://github.com/seu-repositorio/pull/new/main).
+Se você encontrar algum erro ou tiver sugestões para melhorar, sinta-se à vontade para abrir uma [issue](https://github.com/seu-repositorio/issues) ou contribuir com um [pull request](https://github.com/seu-repositorio/pull/new/main).
 
 
